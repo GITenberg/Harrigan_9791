@@ -1,0 +1,33 @@
+_repo: Harrigan_9791
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brand, Max
+    aliases:
+    - Frederick, John
+    - Faust, Frederick Schiller
+    birthdate: 1892
+    deathdate: 1944
+    gutenberg_agent_id: '743'
+    url: http://www.gutenberg.org/2009/agents/743
+    wikipedia: http://en.wikipedia.org/wiki/Max_Brand
+description: In Harrigan, prolific writer Max Brand takes a detour from the dusty
+  trails of the West where his novels were typically set and spins a gripping nautical
+  tale set in Hawaii and upon the open sea. What starts out as a chance meeting between
+  two men turns into a heated race for priceless treasure -- and the love of a remarkable
+  woman.
+gutenberg_bookshelf: Western
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9791'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- GITenberg
+title: Harrigan
+url: http://www.gutenberg.org/ebooks/9791
