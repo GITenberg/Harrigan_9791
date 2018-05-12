@@ -1,5 +1,8 @@
 _repo: Harrigan_9791
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brand, Max
@@ -16,6 +19,8 @@ description: In Harrigan, prolific writer Max Brand takes a detour from the dust
   tale set in Hawaii and upon the open sea. What starts out as a chance meeting between
   two men turns into a heated race for priceless treasure -- and the love of a remarkable
   woman.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9791#Harrigan
 gutenberg_bookshelf: Western
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
